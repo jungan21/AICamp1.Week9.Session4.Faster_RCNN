@@ -1,0 +1,1 @@
+faster_rcnn.config 对应goole原始doc/code: https://github.com/tensorflow/models/blob/master/research/object_detection/protos/pipeline.proto
